@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=AC93F7&random=false&width=435&lines=Welcome+to+Helena's+Space+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=AC93F7&lines=Welcome+to+Helena's+Space👩🏻‍💻;Hello,+I'm+Helena🙋🏻‍♀️)](https://git.io/typing-svg)
 
 <!--
 **yolophg/yolophg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
