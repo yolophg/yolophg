@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=b899ff&height=180&text=Welcome%20to%20the%20Helena%20Park's%20Space&animation=twinkling&fontColor=ffffff&fontSize=40" />
 </div>
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👩🏻‍💻 I'm an Action-oriented Software Frontend Developer </h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> Leveraging over 4 years of experience in Frontend Development, I am dedicated to creating robust and efficient solutions. My passion for learning new technologies drives me to continuously innovate and improve with each project. </div>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👩🏻‍💻 I'm an Action-oriented Problem Solver </h2>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> Leveraging over 4 years of experience in Software Frontend Development, I am dedicated to creating robust and efficient solutions. My passion for learning new technologies drives me to continuously innovate and improve with each project. </div>
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📊 Stats </h2>
@@ -40,8 +40,12 @@
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ✉ Contact me </h2>
-    <div style="text-align: left;"> <a href=mailto:phg5590@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phg5590@gmail.com"> </a>
-        <a href=mailto:phg5590@gmail.com> <img src="https://img.shields.io/badge/yolophg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yolophg"> </a>
+    <div style="text-align: left;"> 
+        <a href=mailto:phg5590@gmail.com target="_blank"> 
+            <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phg5590@gmail.com">
+        </a>
+        <a href="https://www.linkedin.com/in/yolophg" target="_blank"> 
+            <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yolophg"> 
+        </a>
     </div>
-    <div style="text-align: left;"> </div>
 </div>
