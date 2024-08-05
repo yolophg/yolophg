@@ -8,7 +8,7 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📊 Stats </h2>
     <div style="text-align: left;">
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yolophg&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Helena Park's github stats" /></a>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yolophg&show_icons=true&theme=buefy&hide_border=true" alt="Helena Park's github stats" /></a>
     </div>
 </div>
 <div style="text-align: left;">
