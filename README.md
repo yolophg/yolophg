@@ -3,7 +3,7 @@
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👩🏻‍💻 I'm an Action-oriented Problem Solver </h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> Leveraging over 4 years of experience in Software Frontend Development, I am dedicated to creating robust and efficient solutions. My passion for learning new technologies drives me to continuously innovate and improve with each project. </div>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> Leveraging 5+ years of experience in Software Frontend Development. Passionate about problem-solving and continuous improvement, I focus on optimizing code, enhancing reusability, and driving technical growth. I quickly adapt to challenges and leverage new technologies to deliver impactful solutions. 🚀 </div>
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📊 Stats </h2>
