@@ -41,7 +41,7 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ✉ Contact me </h2>
     <div style="text-align: left;"> 
-        <a href=mailto:phg5590@gmail.com target="_blank"> 
+        <a href=mailto:contact.helena.park@gmail.com target="_blank"> 
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
         <a href="https://www.linkedin.com/in/yolophg" target="_blank"> 
